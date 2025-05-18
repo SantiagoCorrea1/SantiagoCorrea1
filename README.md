@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SantiagoCorrea1
 - 👀 I’m interested in cloud oriented architectures, web develpment and videogames
-- 🌱 I’m currently learning backEnd development with fastApi and practicing my front end skills with next.js
+- 🌱 I’m currently learning backEnd development with fastApi and practicing my frontEnd skills with next.js
 - 💞️ I’m looking to collaborate on web development using Java, Python, PHP and TypeScript/JavaScript
 - 📫 You can reach me via email on s.santiago0304.sc@gmail.com
 
